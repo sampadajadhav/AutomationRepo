@@ -1,0 +1,6 @@
+17:47:58.179 [main] TRACE TestPackage.AmazonLoginTest - Brwser invoked
+17:48:10.922 [main] INFO  TestPackage.QAClickHomePageTest - Browser Opened successfully
+17:48:11.608 [main] TRACE TestPackage.QAClickHomePageTest - Title  displayed successfully
+17:48:11.608 [main] INFO  TestPackage.QAClickHomePageTest - Test Passed
+17:48:12.090 [main] INFO  TestPackage.AmazonLoginTest - brwser closed
+17:48:12.091 [main] INFO  TestPackage.QAClickHomePageTest - Browser closed successfully
